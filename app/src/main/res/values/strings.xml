@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppCalc</string>
+    <string name="somar">Somar</string>
+    <string name="valor_2">Valor 2</string>
+    <string name="valor_1">Valor 1</string>
+    <string name="subtrair">subtrair</string>
+    <string name="multiplicar">multiplicar</string>
+    <string name="divisao">divisao</string>
+    <string name="divis_o">divisão</string>
+</resources>
